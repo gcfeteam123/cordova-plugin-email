@@ -90,8 +90,8 @@
 
     <!-- android -->
     <platform name="android">
-        <preference name="ANDROID_SUPPORT_V4_VERSION" default="28.+"/>
-        <framework src="com.android.support:support-v4:$ANDROID_SUPPORT_V4_VERSION"/>
+        <preference name="ANDROIDX_CORE_VERSION" default="1.6.+"/>
+        <framework src="androidx.core:core:$ANDROIDX_CORE_VERSION" />
 
         <config-file target="config.xml" parent="/*">
             <feature name="EmailComposer">
