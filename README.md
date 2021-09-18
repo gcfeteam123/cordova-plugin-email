@@ -1,3 +1,5 @@
+**Forked to fix Android 11 problems – No future support!**
+
 
 <p align="left"><b><a href="https://github.com/katzer/cordova-plugin-email-composer/tree/example">SAMPLE APP</a> :point_right:</b></p>
 
@@ -33,7 +35,7 @@ Or install a specific version:
 
 Or install the latest head version:
 
-    $ cordova plugin add https://github.com/katzer/cordova-plugin-email-composer.git
+    $ cordova plugin add https://github.com/11com7/cordova-plugin-email-composer.git
 
 Or install from local source:
 
